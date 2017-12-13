@@ -1,0 +1,124 @@
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\ApplicationInsights.config
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Default.srprofile
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.AcceptanceTests.dll.config
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.AcceptanceTests.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.AcceptanceTests.pdb
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Newtonsoft.Json.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TechTalk.SpecFlow.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TechTalk.SpecRun.Common.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TechTalk.SpecRun.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\WebDriver.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\WebDriver.Support.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.Mvc.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Models.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\EntityFramework.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.Razor.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.WebPages.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\PagedList.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.pdb
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Newtonsoft.Json.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\WebDriver.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\WebDriver.Support.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.Mvc.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Models.pdb
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\EntityFramework.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.Razor.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.WebPages.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\PagedList.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\obj\Debug\TEDU_MVC.AcceptanceTests.csprojResolveAssemblyReference.cache
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\obj\Debug\TEDU_MVC.AcceptanceTests.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\obj\Debug\TEDU_MVC.AcceptanceTests.pdb
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.Helpers.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.Helpers.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Castle.Core.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Moq.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Castle.Core.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Moq.pdb
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Moq.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.AcceptanceTests.Common.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.AcceptanceTests.Common.pdb
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.UITests.Selenium.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.UITests.Selenium.pdb
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\FluentAssertions.Core.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\FluentAssertions.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\FluentAssertions.pdb
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\FluentAssertions.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\FluentAssertions.Core.pdb
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\FluentAssertions.Core.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.ExtensionUtilities.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\UiaComWrapper.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Interop.UIAutomationClient.dll
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.xml
+D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Default.srprofile
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\ApplicationInsights.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.AcceptanceTests.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.AcceptanceTests.pdb
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Castle.Core.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\FluentAssertions.Core.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\FluentAssertions.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Models.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Moq.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Newtonsoft.Json.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.Helpers.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.Mvc.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.Razor.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.WebPages.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TechTalk.SpecFlow.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.AcceptanceTests.Common.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.UITests.Selenium.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\WebDriver.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\WebDriver.Support.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\EntityFramework.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\PagedList.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Models.pdb
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Models.dll.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.AcceptanceTests.Common.pdb
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.AcceptanceTests.Common.dll.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.UITests.Selenium.pdb
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.UITests.Selenium.dll.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.pdb
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.dll.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Castle.Core.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\FluentAssertions.pdb
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\FluentAssertions.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\FluentAssertions.Core.pdb
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\FluentAssertions.Core.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Moq.pdb
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Moq.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Newtonsoft.Json.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.Helpers.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.Mvc.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.Razor.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.WebPages.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\WebDriver.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\WebDriver.Support.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\EntityFramework.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\PagedList.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\obj\Debug\TEDU_MVC.AcceptanceTests.csprojResolveAssemblyReference.cache
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\obj\Debug\TEDU_MVC.AcceptanceTests.csproj.CoreCompileInputs.cache
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\obj\Debug\TEDU_MVC.AcceptanceTests.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\obj\Debug\TEDU_MVC.AcceptanceTests.pdb
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\Microsoft.Build.Framework.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.AcceptanceTests.dll.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\nunit.framework.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\nunit.framework.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\System.Threading.Thread.dll

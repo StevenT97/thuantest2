@@ -1,0 +1,50 @@
+﻿@using Models;
+@using TEDU_MVC.Code;
+@using TEDU_MVC.Areas.Admin.Code;
+@model List<Models.FrameWork.Menu>
+<div class="menu">
+   
+    @{
+        var session = (UserSession)Session[TEDU_MVC.Code.CommonConstant.USER_SESSION];
+    }
+    @if (session == null)
+    {
+        <ul class="nav">
+            @foreach (var item in Model)
+            {
+                if (int.Parse(item.DisplayOder) == 8 || int.Parse(item.DisplayOder) == 9)
+                {
+                    continue;
+                }
+                else
+                {
+                    <li><a id="btn_@item.Text" href="@item.Link" target="@item.Target">@item.Text</a></li>
+                }
+
+            }
+
+        </ul>
+    }
+    else
+    {
+        <ul class="nav">
+            @foreach (var item in Model)
+            {
+                if (int.Parse(item.DisplayOder) == 6 || int.Parse(item.DisplayOder) == 7)
+                {
+                    continue;
+                }
+                else
+                {
+                    <li><a id="btn_@item.Text" href="@item.Link" target="@item.Target">@item.Text</a></li>
+                }
+
+
+            }
+
+        </ul>
+        <ul>
+            Xin chao @session.UserName
+        </ul>
+    }
+</div>

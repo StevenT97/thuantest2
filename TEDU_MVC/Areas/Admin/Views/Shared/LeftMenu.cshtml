@@ -1,0 +1,63 @@
+﻿<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse">
+        <ul class="nav" id="side-menu">
+            <li class="sidebar-search">
+                <div class="input-group custom-search-form">
+                    <input type="text" class="form-control" placeholder="Search...">
+                    <span class="input-group-btn">
+                        <button class="btn btn-default" type="button">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </span>
+                </div>
+                <!-- /input-group -->
+            </li>
+            <li>
+                <a href="~/Home/Index"><i class="fa fa-dashboard fa-fw"></i> Trang Chủ</a>
+            </li>
+            @*Menu Ky Thuat*@
+            <li id="menu-kythuat">
+                <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i>Kỹ Thuật<span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level">
+                    <li id="list-kt-project">
+                        <a href="~/Admin/Property/Index">List of Project</a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/User/Index">User</a>
+                    </li>
+                </ul>
+                <!-- /.nav-second-level -->
+            </li>
+            @* Menu Sale*@
+            <li id="menu-sale">
+                <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i>Sale<span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level">
+                    <li id="list-sale-project">
+                        <a href="~/Admin/Property/Index">List of Project</a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/User/Index">User</a>
+                    </li>
+                </ul>
+                <!-- /.nav-second-level -->
+            </li>
+            @*Menu Agency*@
+            <li id="menu-agency">
+                <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i>Agency<span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level">
+                    <li id="list-agency">
+                       
+                        <a href="~/Admin/Login/ListAgency">List of Agency</a>
+                    </li>
+                  
+                </ul>
+                <!-- /.nav-second-level -->
+            </li>
+         
+           
+
+        
+        </ul>
+    </div>
+    <!-- /.sidebar-collapse -->
+</div>

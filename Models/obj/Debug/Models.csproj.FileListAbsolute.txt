@@ -1,0 +1,85 @@
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Models\bin\Debug\Models.dll.config
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Models\bin\Debug\Models.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Models\bin\Debug\Models.pdb
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Models\bin\Debug\EntityFramework.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Models\bin\Debug\EntityFramework.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Models\obj\Debug\Models.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Models\obj\Debug\Models.pdb
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Models\bin\Debug\PagedList.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Models\bin\Debug\PagedList.Mvc.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Models\bin\Debug\PagedList.xml
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Models\bin\Debug\PagedList.Mvc.xml
+D:\BAckkup\TEDU\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\BAckkup\TEDU\Models\obj\Debug\Models.dll
+D:\BAckkup\TEDU\Models\obj\Debug\Models.pdb
+D:\BAckkup\TEDU\Models\bin\Debug\Models.dll.config
+D:\BAckkup\TEDU\Models\bin\Debug\Models.dll
+D:\BAckkup\TEDU\Models\bin\Debug\Models.pdb
+D:\BAckkup\TEDU\Models\bin\Debug\EntityFramework.dll
+D:\BAckkup\TEDU\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\BAckkup\TEDU\Models\bin\Debug\PagedList.dll
+D:\BAckkup\TEDU\Models\bin\Debug\PagedList.Mvc.dll
+D:\BAckkup\TEDU\Models\bin\Debug\EntityFramework.xml
+D:\BAckkup\TEDU\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\BAckkup\TEDU\Models\bin\Debug\PagedList.xml
+D:\BAckkup\TEDU\Models\bin\Debug\PagedList.Mvc.xml
+D:\BAckkup\TEDU\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\BAckkup\TEDU\Models\bin\Debug\System.Web.Helpers.dll
+D:\BAckkup\TEDU\Models\bin\Debug\System.Web.Mvc.dll
+D:\BAckkup\TEDU\Models\bin\Debug\System.Web.Razor.dll
+D:\BAckkup\TEDU\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\BAckkup\TEDU\Models\bin\Debug\System.Web.WebPages.dll
+D:\BAckkup\TEDU\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\BAckkup\TEDU\Models\bin\Debug\System.Web.Helpers.xml
+D:\BAckkup\TEDU\Models\bin\Debug\System.Web.Mvc.xml
+D:\BAckkup\TEDU\Models\bin\Debug\System.Web.Razor.xml
+D:\BAckkup\TEDU\Models\bin\Debug\System.Web.WebPages.xml
+D:\BAckkup\TEDU\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\BAckkup\TEDU\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\BAckkup\TEDU\Models\bin\Debug\Default.srprofile
+D:\BAckkup\TEDU\Models\bin\Debug\Newtonsoft.Json.dll
+D:\BAckkup\TEDU\Models\bin\Debug\SpecRun.SpecFlowPlugin.dll
+D:\BAckkup\TEDU\Models\bin\Debug\TechTalk.SpecFlow.dll
+D:\BAckkup\TEDU\Models\bin\Debug\TechTalk.SpecRun.Common.dll
+D:\BAckkup\TEDU\Models\bin\Debug\TechTalk.SpecRun.dll
+D:\BAckkup\TEDU\Models\bin\Debug\Newtonsoft.Json.xml
+D:\CMU\Computer Science\TEDU\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\CMU\Computer Science\TEDU\Models\obj\Debug\Models.dll
+D:\CMU\Computer Science\TEDU\Models\obj\Debug\Models.pdb
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\Default.srprofile
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\Models.dll.config
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\Models.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\Models.pdb
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\EntityFramework.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\Newtonsoft.Json.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\PagedList.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\PagedList.Mvc.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\SpecRun.SpecFlowPlugin.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\System.Web.Helpers.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\System.Web.Mvc.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\System.Web.Razor.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\System.Web.WebPages.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\TechTalk.SpecFlow.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\TechTalk.SpecRun.Common.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\TechTalk.SpecRun.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\EntityFramework.xml
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\Newtonsoft.Json.xml
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\PagedList.xml
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\PagedList.Mvc.xml
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\System.Web.Helpers.xml
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\System.Web.Mvc.xml
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\System.Web.Razor.xml
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\System.Web.WebPages.xml
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\nunit.framework.dll
+D:\CMU\Computer Science\TEDU\Models\bin\Debug\nunit.framework.xml
+D:\CMU\Computer Science\TEDU\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache

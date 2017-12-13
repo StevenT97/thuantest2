@@ -1,0 +1,4 @@
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Common\bin\Debug\Common.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Common\bin\Debug\Common.pdb
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Common\obj\Debug\Common.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\Common\obj\Debug\Common.pdb

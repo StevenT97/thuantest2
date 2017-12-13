@@ -1,0 +1,56 @@
+﻿2017-12-08T13:08:40.3831244+07:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-08T13:08:40.4821300+07:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-08T13:08:40.4831301+07:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.AcceptanceTests.dll
+2017-12-08T13:08:40.4831301+07:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-08T13:08:45.5784215+07:00;Thread#5;Info;Discovering target: Default
+2017-12-08T13:08:45.5794216+07:00;Thread#5;Info;Discovering tests from assembly: D:\BAckkup\TEDU\TEDU_MVC.AcceptanceTests\bin\Debug\TEDU_MVC.AcceptanceTests.dll
+Appdomain Disposed
+Test Suite Dump
+#0: TEDU_MVC.AcceptanceTests/Default - 
+#1: Default - 
+#2: TEDU_MVC.AcceptanceTests - 
+#3: Login - 
+#4: i want to login - TestAssembly:TEDU_MVC.AcceptanceTests/Feature:Login/Scenario:i+want+to+login
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for TEDU_MVC.AcceptanceTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Shayne\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.6.3\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given Toi dang o home page
+Thread#0:T:done: LoginSteps.GivenToiDangOHomePage() (10.5s)
+Thread#0:B:When toi bam nut login
+Thread#0:T:done: LoginSteps.WhenToiBamNutLogin() (1.2s)
+Thread#0:B:Then toi dang o trang login
+Thread#0:T:done: LoginSteps.ThenToiDangOTrangLogin() (0.1s)
+Thread#0:B:When toi dien mat khau va password
+Thread#0:T:done: LoginSteps.WhenToiDienMatKhauVaPassword() (0.1s)
+Thread#0:B:Then toi bam nut login
+Thread#0:T:done: LoginSteps.ThenToiBamNutLogin() (1.3s)
+Thread#0:B:And toi vao trang admin
+Thread#0:T:pending: LoginSteps.ThenToiVaoTrangAdmin()
+Thread#0:T:Pending: One or more step definitions are not implemented yet.
+Thread#0:T:  LoginSteps.ThenToiVaoTrangAdmin()
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #4/0 is finished on thread #0 as Pending within 15.0888631 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 0
+Ignored: 0
+Pending: 1
+Skipped: 0
+Failed: 0

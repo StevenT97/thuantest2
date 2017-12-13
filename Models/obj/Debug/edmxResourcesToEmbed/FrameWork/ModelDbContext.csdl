@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="UserName" />
+    </Key>
+    <Property Name="UserName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PassWord" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="DISCTRICT_TABLE">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DistrictName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Status" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="PROJECT_TABLE" Relationship="Self.FK_PROJECT_TABLE_DISCTRICT_TABLE" FromRole="DISCTRICT_TABLE" ToRole="PROJECT_TABLE" />
+    <NavigationProperty Name="STREET_TABLE" Relationship="Self.FK_STREET_TABLE_DISCTRICT_TABLE" FromRole="DISCTRICT_TABLE" ToRole="STREET_TABLE" />
+    <NavigationProperty Name="WARD_TABLE" Relationship="Self.FK_WARD_TABLE_DISCTRICT_TABLE" FromRole="DISCTRICT_TABLE" ToRole="WARD_TABLE" />
+  </EntityType>
+  <EntityType Name="FEATURE_TABLE">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FeatureName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Status" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="PROJECT_FEATURE_TABLE" Relationship="Self.FK_PROJECT_FEATURE_TABLE_FEATURE_TABLE" FromRole="FEATURE_TABLE" ToRole="PROJECT_FEATURE_TABLE" />
+  </EntityType>
+  <EntityType Name="KhachHang">
+    <Key>
+      <PropertyRef Name="MaKH" />
+    </Key>
+    <Property Name="MaKH" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HoTen" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NgaySinh" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="GioiTinh" Type="Boolean" Nullable="false" />
+    <Property Name="DienThoai" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TaiKhoan" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MatKhau" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DiaChi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PROJECT_FEATURE_TABLE">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Project_ID" Type="Int32" Nullable="false" />
+    <Property Name="Feature_ID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="FEATURE_TABLE" Relationship="Self.FK_PROJECT_FEATURE_TABLE_FEATURE_TABLE" FromRole="PROJECT_FEATURE_TABLE" ToRole="FEATURE_TABLE" />
+    <NavigationProperty Name="PROJECT_TABLE" Relationship="Self.FK_PROJECT_FEATURE_TABLE_PROJECT_TABLE" FromRole="PROJECT_FEATURE_TABLE" ToRole="PROJECT_TABLE" />
+  </EntityType>
+  <EntityType Name="PROJECT_STATUS_TABLE">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StatusName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Status" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="PROJECT_TABLE" Relationship="Self.FK_PROJECT_TABLE_PROJECT_STATUS_TABLE" FromRole="PROJECT_STATUS_TABLE" ToRole="PROJECT_TABLE" />
+  </EntityType>
+  <EntityType Name="PROJECT_TABLE">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Avatar" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Images" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ProjectType_ID" Type="Int32" Nullable="false" />
+    <Property Name="ProjectName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Content" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="City" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="District_ID" Type="Int32" Nullable="false" />
+    <Property Name="Ward_ID" Type="Int32" Nullable="false" />
+    <Property Name="Street_ID" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Int32" Nullable="false" />
+    <Property Name="UnitPrice" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Area" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="BedRoom" Type="Int32" Nullable="false" />
+    <Property Name="BathRoom" Type="Int32" Nullable="false" />
+    <Property Name="PackingPlace" Type="Int32" Nullable="false" />
+    <Property Name="User_ID" Type="Int32" Nullable="false" />
+    <Property Name="Created_at" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Status_ID" Type="Int32" Nullable="false" />
+    <Property Name="Note" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Updated_at" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Sale_ID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="DISCTRICT_TABLE" Relationship="Self.FK_PROJECT_TABLE_DISCTRICT_TABLE" FromRole="PROJECT_TABLE" ToRole="DISCTRICT_TABLE" />
+    <NavigationProperty Name="PROJECT_FEATURE_TABLE" Relationship="Self.FK_PROJECT_FEATURE_TABLE_PROJECT_TABLE" FromRole="PROJECT_TABLE" ToRole="PROJECT_FEATURE_TABLE" />
+    <NavigationProperty Name="PROJECT_STATUS_TABLE" Relationship="Self.FK_PROJECT_TABLE_PROJECT_STATUS_TABLE" FromRole="PROJECT_TABLE" ToRole="PROJECT_STATUS_TABLE" />
+    <NavigationProperty Name="PROJECT_TYPE_TABLE" Relationship="Self.FK_PROJECT_TABLE_PROJECT_TYPE_TABLE" FromRole="PROJECT_TABLE" ToRole="PROJECT_TYPE_TABLE" />
+    <NavigationProperty Name="STREET_TABLE" Relationship="Self.FK_PROJECT_TABLE_STREET_TABLE" FromRole="PROJECT_TABLE" ToRole="STREET_TABLE" />
+    <NavigationProperty Name="USER_TABLE" Relationship="Self.FK_PROJECT_TABLE_USER_TABLE" FromRole="PROJECT_TABLE" ToRole="USER_TABLE" />
+    <NavigationProperty Name="WARD_TABLE" Relationship="Self.FK_PROJECT_TABLE_WARD_TABLE" FromRole="PROJECT_TABLE" ToRole="WARD_TABLE" />
+  </EntityType>
+  <EntityType Name="PROJECT_TYPE_TABLE">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TypeName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Status" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="PROJECT_TABLE" Relationship="Self.FK_PROJECT_TABLE_PROJECT_TYPE_TABLE" FromRole="PROJECT_TYPE_TABLE" ToRole="PROJECT_TABLE" />
+  </EntityType>
+  <EntityType Name="STREET_TABLE">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StreetName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="District_ID" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="DISCTRICT_TABLE" Relationship="Self.FK_STREET_TABLE_DISCTRICT_TABLE" FromRole="STREET_TABLE" ToRole="DISCTRICT_TABLE" />
+    <NavigationProperty Name="PROJECT_TABLE" Relationship="Self.FK_PROJECT_TABLE_STREET_TABLE" FromRole="STREET_TABLE" ToRole="PROJECT_TABLE" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="USER_TABLE">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FullName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Phone" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Role" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Status" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="PROJECT_TABLE" Relationship="Self.FK_PROJECT_TABLE_USER_TABLE" FromRole="USER_TABLE" ToRole="PROJECT_TABLE" />
+  </EntityType>
+  <EntityType Name="WARD_TABLE">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="WardName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="District_ID" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="DISCTRICT_TABLE" Relationship="Self.FK_WARD_TABLE_DISCTRICT_TABLE" FromRole="WARD_TABLE" ToRole="DISCTRICT_TABLE" />
+    <NavigationProperty Name="PROJECT_TABLE" Relationship="Self.FK_PROJECT_TABLE_WARD_TABLE" FromRole="WARD_TABLE" ToRole="PROJECT_TABLE" />
+  </EntityType>
+  <Association Name="FK_PROJECT_TABLE_DISCTRICT_TABLE">
+    <End Role="DISCTRICT_TABLE" Type="Self.DISCTRICT_TABLE" Multiplicity="1" />
+    <End Role="PROJECT_TABLE" Type="Self.PROJECT_TABLE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DISCTRICT_TABLE">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="PROJECT_TABLE">
+        <PropertyRef Name="District_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_STREET_TABLE_DISCTRICT_TABLE">
+    <End Role="DISCTRICT_TABLE" Type="Self.DISCTRICT_TABLE" Multiplicity="1" />
+    <End Role="STREET_TABLE" Type="Self.STREET_TABLE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DISCTRICT_TABLE">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="STREET_TABLE">
+        <PropertyRef Name="District_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_WARD_TABLE_DISCTRICT_TABLE">
+    <End Role="DISCTRICT_TABLE" Type="Self.DISCTRICT_TABLE" Multiplicity="1" />
+    <End Role="WARD_TABLE" Type="Self.WARD_TABLE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DISCTRICT_TABLE">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="WARD_TABLE">
+        <PropertyRef Name="District_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PROJECT_FEATURE_TABLE_FEATURE_TABLE">
+    <End Role="FEATURE_TABLE" Type="Self.FEATURE_TABLE" Multiplicity="1" />
+    <End Role="PROJECT_FEATURE_TABLE" Type="Self.PROJECT_FEATURE_TABLE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FEATURE_TABLE">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="PROJECT_FEATURE_TABLE">
+        <PropertyRef Name="Feature_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PROJECT_FEATURE_TABLE_PROJECT_TABLE">
+    <End Role="PROJECT_TABLE" Type="Self.PROJECT_TABLE" Multiplicity="1" />
+    <End Role="PROJECT_FEATURE_TABLE" Type="Self.PROJECT_FEATURE_TABLE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PROJECT_TABLE">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="PROJECT_FEATURE_TABLE">
+        <PropertyRef Name="Project_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PROJECT_TABLE_PROJECT_STATUS_TABLE">
+    <End Role="PROJECT_STATUS_TABLE" Type="Self.PROJECT_STATUS_TABLE" Multiplicity="1" />
+    <End Role="PROJECT_TABLE" Type="Self.PROJECT_TABLE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PROJECT_STATUS_TABLE">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="PROJECT_TABLE">
+        <PropertyRef Name="Status_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PROJECT_TABLE_PROJECT_TYPE_TABLE">
+    <End Role="PROJECT_TYPE_TABLE" Type="Self.PROJECT_TYPE_TABLE" Multiplicity="1" />
+    <End Role="PROJECT_TABLE" Type="Self.PROJECT_TABLE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PROJECT_TYPE_TABLE">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="PROJECT_TABLE">
+        <PropertyRef Name="ProjectType_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PROJECT_TABLE_STREET_TABLE">
+    <End Role="STREET_TABLE" Type="Self.STREET_TABLE" Multiplicity="1" />
+    <End Role="PROJECT_TABLE" Type="Self.PROJECT_TABLE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STREET_TABLE">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="PROJECT_TABLE">
+        <PropertyRef Name="Street_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PROJECT_TABLE_USER_TABLE">
+    <End Role="USER_TABLE" Type="Self.USER_TABLE" Multiplicity="1" />
+    <End Role="PROJECT_TABLE" Type="Self.PROJECT_TABLE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="USER_TABLE">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="PROJECT_TABLE">
+        <PropertyRef Name="User_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PROJECT_TABLE_WARD_TABLE">
+    <End Role="WARD_TABLE" Type="Self.WARD_TABLE" Multiplicity="1" />
+    <End Role="PROJECT_TABLE" Type="Self.PROJECT_TABLE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="WARD_TABLE">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="PROJECT_TABLE">
+        <PropertyRef Name="Ward_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PPC_RentalEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Accounts" EntityType="Self.Account" />
+    <EntitySet Name="DISCTRICT_TABLE" EntityType="Self.DISCTRICT_TABLE" />
+    <EntitySet Name="FEATURE_TABLE" EntityType="Self.FEATURE_TABLE" />
+    <EntitySet Name="KhachHangs" EntityType="Self.KhachHang" />
+    <EntitySet Name="PROJECT_FEATURE_TABLE" EntityType="Self.PROJECT_FEATURE_TABLE" />
+    <EntitySet Name="PROJECT_STATUS_TABLE" EntityType="Self.PROJECT_STATUS_TABLE" />
+    <EntitySet Name="PROJECT_TABLE" EntityType="Self.PROJECT_TABLE" />
+    <EntitySet Name="PROJECT_TYPE_TABLE" EntityType="Self.PROJECT_TYPE_TABLE" />
+    <EntitySet Name="STREET_TABLE" EntityType="Self.STREET_TABLE" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="USER_TABLE" EntityType="Self.USER_TABLE" />
+    <EntitySet Name="WARD_TABLE" EntityType="Self.WARD_TABLE" />
+    <AssociationSet Name="FK_PROJECT_TABLE_DISCTRICT_TABLE" Association="Self.FK_PROJECT_TABLE_DISCTRICT_TABLE">
+      <End Role="DISCTRICT_TABLE" EntitySet="DISCTRICT_TABLE" />
+      <End Role="PROJECT_TABLE" EntitySet="PROJECT_TABLE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_STREET_TABLE_DISCTRICT_TABLE" Association="Self.FK_STREET_TABLE_DISCTRICT_TABLE">
+      <End Role="DISCTRICT_TABLE" EntitySet="DISCTRICT_TABLE" />
+      <End Role="STREET_TABLE" EntitySet="STREET_TABLE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_WARD_TABLE_DISCTRICT_TABLE" Association="Self.FK_WARD_TABLE_DISCTRICT_TABLE">
+      <End Role="DISCTRICT_TABLE" EntitySet="DISCTRICT_TABLE" />
+      <End Role="WARD_TABLE" EntitySet="WARD_TABLE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PROJECT_FEATURE_TABLE_FEATURE_TABLE" Association="Self.FK_PROJECT_FEATURE_TABLE_FEATURE_TABLE">
+      <End Role="FEATURE_TABLE" EntitySet="FEATURE_TABLE" />
+      <End Role="PROJECT_FEATURE_TABLE" EntitySet="PROJECT_FEATURE_TABLE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PROJECT_FEATURE_TABLE_PROJECT_TABLE" Association="Self.FK_PROJECT_FEATURE_TABLE_PROJECT_TABLE">
+      <End Role="PROJECT_TABLE" EntitySet="PROJECT_TABLE" />
+      <End Role="PROJECT_FEATURE_TABLE" EntitySet="PROJECT_FEATURE_TABLE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PROJECT_TABLE_PROJECT_STATUS_TABLE" Association="Self.FK_PROJECT_TABLE_PROJECT_STATUS_TABLE">
+      <End Role="PROJECT_STATUS_TABLE" EntitySet="PROJECT_STATUS_TABLE" />
+      <End Role="PROJECT_TABLE" EntitySet="PROJECT_TABLE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PROJECT_TABLE_PROJECT_TYPE_TABLE" Association="Self.FK_PROJECT_TABLE_PROJECT_TYPE_TABLE">
+      <End Role="PROJECT_TYPE_TABLE" EntitySet="PROJECT_TYPE_TABLE" />
+      <End Role="PROJECT_TABLE" EntitySet="PROJECT_TABLE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PROJECT_TABLE_STREET_TABLE" Association="Self.FK_PROJECT_TABLE_STREET_TABLE">
+      <End Role="STREET_TABLE" EntitySet="STREET_TABLE" />
+      <End Role="PROJECT_TABLE" EntitySet="PROJECT_TABLE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PROJECT_TABLE_USER_TABLE" Association="Self.FK_PROJECT_TABLE_USER_TABLE">
+      <End Role="USER_TABLE" EntitySet="USER_TABLE" />
+      <End Role="PROJECT_TABLE" EntitySet="PROJECT_TABLE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PROJECT_TABLE_WARD_TABLE" Association="Self.FK_PROJECT_TABLE_WARD_TABLE">
+      <End Role="WARD_TABLE" EntitySet="WARD_TABLE" />
+      <End Role="PROJECT_TABLE" EntitySet="PROJECT_TABLE" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

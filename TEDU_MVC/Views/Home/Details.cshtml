@@ -1,0 +1,202 @@
+﻿@model Models.FrameWork.PROPERTy
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Layout/_LayoutPage1.cshtml";
+}
+<script src="~/scripts/js/controller/Contact.js"></script>
+<div class="content-bg">
+    <div class="wrap">
+        <div class="content">
+            <div class="details">
+                <h3>@Html.DisplayFor(model => model.PropertyName)</h3>
+                <div class="det-pic">
+                    <a href="details.html"><img src="~/Images/@Model.Avatar"></a>
+                </div>
+                <div class="det-para">
+                    <dl class="dl-horizontal">
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Content)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Content)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Price)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Price)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.UnitPrice)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.UnitPrice)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Area)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Area)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.BedRoom)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.BedRoom)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.BathRoom)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.BathRoom)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.PackingPlace)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.PackingPlace)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Created_at)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Created_at)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Create_post)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Create_post)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Note)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Note)
+                        </dd>
+
+
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.DISTRICT_Table.DistrictName)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.DISTRICT_Table.DistrictName)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.PROJECT_STATUS.Status_Name)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.PROJECT_STATUS.Status_Name)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.PROPERTY_TYPE.CodeType)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.PROPERTY_TYPE.CodeType)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.STREET.StreetName)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.STREET.StreetName)
+                        </dd>
+
+
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.WARD.WardName)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.WARD.WardName)
+                        </dd>
+
+                    </dl>
+
+                </div>
+            </div>
+                <div class="section group">
+                    <div class="col span_1_of_3">
+                        <div class="contact_info">
+                            <h3>Find Us Here</h3>
+                            <div class="map" id="mapCanvas">
+                               
+                            </div>
+                        </div>
+                        <div class="company_address">
+                            <h3>Company Information :</h3>
+                            <p>500 Lorem Ipsum Dolor Sit,</p>
+                            <p>22-56-2-9 Sit Amet, Lorem,</p>
+                            <p>USA</p>
+                            <p>Phone:(00) 222 666 444</p>
+                            <p>Fax: (000) 000 00 00 0</p>
+                            <p>Email: <span><a href="mailto:info@gmail.com">info@mycompany.com</a></span></p>
+                            <p>Follow on: <span>Facebook</span>, <span>Twitter</span></p>
+                        </div>
+                    </div>
+                    <div class="col span_2_of_3">
+                        <div class="contact-form">
+                            <h3>Contact Us</h3>
+                            <form action="">
+                                <div>
+                                    <span><label>NAME</label></span>
+                                    <span><input type="text" id="txtName"></span>
+                                </div>
+                                <div>
+                                    <span><label>MOBILE</label></span>
+                                    <span><input type="text" id="txtMobile"></span>
+                                </div>
+                                <div>
+                                    <span><label>E-MAIL</label></span>
+                                    <span><input type="text" id="txtEmail"></span>
+                                </div>
+                              
+                                <div>
+                                    <span><label>SUBJECT</label></span>
+                                    <span><textarea id="txtContent"> </textarea></span>
+                                </div>
+                                <div>
+                                    <span><input type="submit" id="btnSend" class="btn btn-success"></span>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>
+@section scripts {
+<script src="~/scripts/js/controller/Contact.js"></script>
+    }
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

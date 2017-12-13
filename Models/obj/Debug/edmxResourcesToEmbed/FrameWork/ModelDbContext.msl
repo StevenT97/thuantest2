@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="PPC_RentalEntities">
+    <EntitySetMapping Name="Accounts">
+      <EntityTypeMapping TypeName="Model.Account">
+        <MappingFragment StoreEntitySet="Account">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="PassWord" ColumnName="PassWord" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DISCTRICT_TABLE">
+      <EntityTypeMapping TypeName="Model.DISCTRICT_TABLE">
+        <MappingFragment StoreEntitySet="DISCTRICT_TABLE">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="DistrictName" ColumnName="DistrictName" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FEATURE_TABLE">
+      <EntityTypeMapping TypeName="Model.FEATURE_TABLE">
+        <MappingFragment StoreEntitySet="FEATURE_TABLE">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="FeatureName" ColumnName="FeatureName" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KhachHangs">
+      <EntityTypeMapping TypeName="Model.KhachHang">
+        <MappingFragment StoreEntitySet="KhachHang">
+          <ScalarProperty Name="MaKH" ColumnName="MaKH" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="DienThoai" ColumnName="DienThoai" />
+          <ScalarProperty Name="TaiKhoan" ColumnName="TaiKhoan" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PROJECT_FEATURE_TABLE">
+      <EntityTypeMapping TypeName="Model.PROJECT_FEATURE_TABLE">
+        <MappingFragment StoreEntitySet="PROJECT_FEATURE_TABLE">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Project_ID" ColumnName="Project_ID" />
+          <ScalarProperty Name="Feature_ID" ColumnName="Feature_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PROJECT_STATUS_TABLE">
+      <EntityTypeMapping TypeName="Model.PROJECT_STATUS_TABLE">
+        <MappingFragment StoreEntitySet="PROJECT_STATUS_TABLE">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="StatusName" ColumnName="StatusName" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PROJECT_TABLE">
+      <EntityTypeMapping TypeName="Model.PROJECT_TABLE">
+        <MappingFragment StoreEntitySet="PROJECT_TABLE">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Avatar" ColumnName="Avatar" />
+          <ScalarProperty Name="Images" ColumnName="Images" />
+          <ScalarProperty Name="ProjectType_ID" ColumnName="ProjectType_ID" />
+          <ScalarProperty Name="ProjectName" ColumnName="ProjectName" />
+          <ScalarProperty Name="Content" ColumnName="Content" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="District_ID" ColumnName="District_ID" />
+          <ScalarProperty Name="Ward_ID" ColumnName="Ward_ID" />
+          <ScalarProperty Name="Street_ID" ColumnName="Street_ID" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="UnitPrice" ColumnName="UnitPrice" />
+          <ScalarProperty Name="Area" ColumnName="Area" />
+          <ScalarProperty Name="BedRoom" ColumnName="BedRoom" />
+          <ScalarProperty Name="BathRoom" ColumnName="BathRoom" />
+          <ScalarProperty Name="PackingPlace" ColumnName="PackingPlace" />
+          <ScalarProperty Name="User_ID" ColumnName="User_ID" />
+          <ScalarProperty Name="Created_at" ColumnName="Created_at" />
+          <ScalarProperty Name="Status_ID" ColumnName="Status_ID" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+          <ScalarProperty Name="Updated_at" ColumnName="Updated_at" />
+          <ScalarProperty Name="Sale_ID" ColumnName="Sale_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PROJECT_TYPE_TABLE">
+      <EntityTypeMapping TypeName="Model.PROJECT_TYPE_TABLE">
+        <MappingFragment StoreEntitySet="PROJECT_TYPE_TABLE">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="TypeName" ColumnName="TypeName" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="STREET_TABLE">
+      <EntityTypeMapping TypeName="Model.STREET_TABLE">
+        <MappingFragment StoreEntitySet="STREET_TABLE">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="StreetName" ColumnName="StreetName" />
+          <ScalarProperty Name="District_ID" ColumnName="District_ID" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="Model.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="USER_TABLE">
+      <EntityTypeMapping TypeName="Model.USER_TABLE">
+        <MappingFragment StoreEntitySet="USER_TABLE">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Role" ColumnName="Role" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WARD_TABLE">
+      <EntityTypeMapping TypeName="Model.WARD_TABLE">
+        <MappingFragment StoreEntitySet="WARD_TABLE">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="WardName" ColumnName="WardName" />
+          <ScalarProperty Name="District_ID" ColumnName="District_ID" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

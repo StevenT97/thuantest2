@@ -1,0 +1,108 @@
+﻿@model IEnumerable<Models.FrameWork.PROPERTy>
+
+@*@model IEnumerable<Models.FrameWork.PROPERTy>*@
+@using Models.FrameWork
+@{
+    var db = new DemoPPCRentalEntities();
+    var Quans = new SelectList(db.DISTRICT_Table, "ID", "DistrictName");
+    var Duongs = new SelectList(db.STREETs.Take(0), "ID", "StreetName");
+    var Types = new SelectList(db.PROPERTY_TYPE, "ID", "CodeType");
+}
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Layout/_LayoutPage1.cshtml";
+}
+<div class="content-bg">
+    <div class="wrap">
+        <div class="content">
+            <div class="section group">
+                @*==================*@
+                <div class="grid_1_of_3 images_1_of_3" style="margin-left:55px;width:94%;">
+                    <h3 style="color: white;">Find Your Property</h3>
+                    <form role="search" action="@Url.Action("Search","Home")" method="get">
+
+                        @Html.DropDownList("Quan", Quans, "Chọn quận...", new { @id = "Quan" })   
+                        @Html.DropDownList("Duong", Duongs, "Chọn đường...", new { @id = "Duong" })  
+                        @Html.DropDownList("Type", Types, "Chọn type...", new { @id = "Type" })  
+
+                     
+                        <input type="text" placeholder="Search" name="text">
+                     
+                        <button type="submit">Submit</button>
+                    </form>
+                </div>
+
+
+                @*-----------------*@
+                @foreach (var item in Model)
+                {
+                    <div class="grid_1_of_3 images_1_of_3">
+                        <h3 style="color: white;">
+                            @{
+                                if (@item.PropertyName.Length <= 20)
+                                {
+                                    @item.PropertyName
+                                }
+                                else
+                                {
+                                    @item.PropertyName.Substring(0, 15)
+
+                                }
+                            }
+
+
+                        </h3>
+
+                        <a href="#"><img src="~/Images/@item.Avatar" alt="" /></a>
+                        <p>Area: @item.Area | Price:@item.Price VND</p>
+                        <p>PropertyType: @item.PROPERTY_TYPE.CodeType</p>
+                        <p>Address: @item.DISTRICT_Table.DistrictName @item.STREET.StreetName</p>
+                        <div class="icon-bar">
+                            <img src="~/GiaoDienChinh/Icon/bed-orange.png" /> (@item.BedRoom) |
+                            <img src="~/GiaoDienChinh/Icon/cars-orange.png" /> (@item.BathRoom) |
+                            <img src="~/GiaoDienChinh/Icon/shawer-orange.png" /> (@item.PackingPlace)
+                            @*<img src="~/GiaoDienChinh/Icon/bed-organe.png" /> (@item.BedRoom)|
+                                <img src="~/GiaoDienChinh/Icon/cars-organe.png" /> (@item.PackingPlace)|
+                                <img src="~/GiaoDienChinh/Icon/shawer-orange.png" />(@item.BathRoom)*@
+
+                        </div>
+                        <div class="btn">
+                            <a href="~/Home/Details/@item.ID">
+                                <img style="MARGIN-LEFT: -15px" src="~/GiaoDienChinh/Icon/readmore.png" /> Read more
+                            </a>
+                        </div>
+                    </div>
+
+                                }
+
+            </div>
+           
+        </div>
+
+    </div>
+</div>
+
+@section scripts {
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js"></script>
+    <script type="text/javascript">
+        $('#Quan').select2();
+        $('#Duong').select2();
+        $('#Quan').on('change', function () {
+            $('#Duong').empty();
+            $.getJSON('/Home/GetStreet?did=' + $('#Quan').val(), function (json) {
+                $('#Duong').select2({ data: json });
+            });
+
+        });
+    </script>
+}
+<link href="~/GiaoDienChinh/BootStrap/bootstrap.css" rel="stylesheet" />
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<style type="text/css">
+    .example {
+        margin: 20px;
+    }
+</style>

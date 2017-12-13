@@ -1,0 +1,106 @@
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\ApplicationInsights.config
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\TEDU_MVC.Tests.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\TEDU_MVC.Tests.pdb
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\TEDU_MVC.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.Mvc.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.Razor.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\TEDU_MVC.pdb
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.Mvc.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.Razor.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\obj\Debug\TEDU_MVC.Tests.csprojResolveAssemblyReference.cache
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\obj\Debug\TEDU_MVC.Tests.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\obj\Debug\TEDU_MVC.Tests.pdb
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\Models.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\Models.pdb
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\TEDU_MVC.Tests.dll.config
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\PagedList.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC.Tests\bin\Debug\PagedList.xml
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\ApplicationInsights.config
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\TEDU_MVC.Tests.dll.config
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\TEDU_MVC.Tests.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\TEDU_MVC.Tests.pdb
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\TEDU_MVC.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.Mvc.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\Models.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\EntityFramework.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.Razor.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\PagedList.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\TEDU_MVC.pdb
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.Mvc.xml
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\Models.pdb
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\EntityFramework.xml
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.Razor.xml
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.xml
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\PagedList.xml
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\BAckkup\TEDU\TEDU_MVC.Tests\obj\Debug\TEDU_MVC.Tests.csprojResolveAssemblyReference.cache
+D:\BAckkup\TEDU\TEDU_MVC.Tests\obj\Debug\TEDU_MVC.Tests.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\obj\Debug\TEDU_MVC.Tests.pdb
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.Helpers.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.Helpers.xml
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\Default.srprofile
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\TechTalk.SpecFlow.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\TechTalk.SpecRun.dll
+D:\BAckkup\TEDU\TEDU_MVC.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\Default.srprofile
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\ApplicationInsights.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\TEDU_MVC.Tests.dll.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\TEDU_MVC.Tests.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\TEDU_MVC.Tests.pdb
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.Helpers.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.Mvc.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.Razor.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\TechTalk.SpecFlow.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\TechTalk.SpecRun.Common.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\TechTalk.SpecRun.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\TEDU_MVC.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\Models.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\EntityFramework.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\PagedList.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\TEDU_MVC.pdb
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\TEDU_MVC.dll.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.Helpers.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.Mvc.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.Razor.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\Models.pdb
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\Models.dll.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\EntityFramework.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\PagedList.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\obj\Debug\TEDU_MVC.Tests.csprojResolveAssemblyReference.cache
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\obj\Debug\TEDU_MVC.Tests.csproj.CoreCompileInputs.cache
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\obj\Debug\TEDU_MVC.Tests.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\obj\Debug\TEDU_MVC.Tests.pdb
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\nunit.framework.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC.Tests\bin\Debug\nunit.framework.xml

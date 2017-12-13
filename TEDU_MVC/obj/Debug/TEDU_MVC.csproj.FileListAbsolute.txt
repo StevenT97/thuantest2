@@ -1,0 +1,306 @@
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\ApplicationInsights.config
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\csc.exe
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\vbc.exe
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\VBCSCompiler.exe
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\TEDU_MVC.dll.config
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\TEDU_MVC.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\TEDU_MVC.pdb
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.AI.Web.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.ApplicationInsights.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\System.Web.Helpers.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\System.Web.Mvc.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\System.Web.Razor.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\System.Web.Webpages.Deployment.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\System.Web.Webpages.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\System.Web.Webpages.Razor.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.AI.Web.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.ApplicationInsights.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\System.Web.Razor.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\System.Web.Webpages.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\System.Web.Webpages.Deployment.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\System.Web.Webpages.Razor.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\System.Web.Helpers.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\System.Web.Mvc.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\obj\Debug\TEDU_MVC.csprojResolveAssemblyReference.cache
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\obj\Debug\TEDU_MVC.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\obj\Debug\TEDU_MVC.pdb
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\EntityFramework.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\EntityFramework.SqlServer.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\EntityFramework.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\EntityFramework.SqlServer.xml
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Models.dll
+c:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Models.pdb
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\PagedList.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\PagedList.Mvc.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\PagedList.xml
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\PagedList.Mvc.xml
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\csc.exe.config
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\csc.rsp
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\csi.exe
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\csi.exe.config
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\csi.rsp
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Console.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\vbc.exe.config
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\roslyn\vbc.rsp
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Shayne\documents\visual studio 2015\Projects\TEDU\TEDU_MVC\bin\System.Diagnostics.DiagnosticSource.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\ApplicationInsights.config
+D:\BAckkup\TEDU\TEDU_MVC\bin\TEDU_MVC.dll.config
+D:\BAckkup\TEDU\TEDU_MVC\bin\TEDU_MVC.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\TEDU_MVC.pdb
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\csc.exe
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\csc.exe.config
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\csc.rsp
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\csi.exe
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\csi.exe.config
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\csi.rsp
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.AppContext.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Console.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Diagnostics.Process.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.IO.Compression.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.IO.Pipes.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Security.AccessControl.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Security.Claims.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Threading.Thread.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.ValueTuple.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Xml.XPath.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\vbc.exe
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\vbc.exe.config
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\vbc.rsp
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\VBCSCompiler.exe
+D:\BAckkup\TEDU\TEDU_MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\BAckkup\TEDU\TEDU_MVC\bin\EntityFramework.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\EntityFramework.SqlServer.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.AI.Web.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.AI.WindowsServer.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.ApplicationInsights.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\Models.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\PagedList.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\PagedList.Mvc.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\System.Diagnostics.DiagnosticSource.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\System.Web.Helpers.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\System.Web.Mvc.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\System.Web.Razor.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\System.Web.Webpages.Deployment.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\System.Web.Webpages.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\System.Web.Webpages.Razor.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\Models.pdb
+D:\BAckkup\TEDU\TEDU_MVC\bin\EntityFramework.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\EntityFramework.SqlServer.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.AI.Web.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.AI.WindowsServer.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.ApplicationInsights.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\PagedList.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\PagedList.Mvc.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\System.Diagnostics.DiagnosticSource.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\System.Web.Razor.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\System.Web.Webpages.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\System.Web.Webpages.Deployment.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\System.Web.Webpages.Razor.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\System.Web.Helpers.xml
+D:\BAckkup\TEDU\TEDU_MVC\bin\System.Web.Mvc.xml
+D:\BAckkup\TEDU\TEDU_MVC\obj\Debug\TEDU_MVC.csprojResolveAssemblyReference.cache
+D:\BAckkup\TEDU\TEDU_MVC\obj\Debug\TEDU_MVC.dll
+D:\BAckkup\TEDU\TEDU_MVC\obj\Debug\TEDU_MVC.pdb
+D:\BAckkup\TEDU\TEDU_MVC\bin\Default.srprofile
+D:\BAckkup\TEDU\TEDU_MVC\bin\Newtonsoft.Json.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\SpecRun.SpecFlowPlugin.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\TechTalk.SpecFlow.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\TechTalk.SpecRun.Common.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\TechTalk.SpecRun.dll
+D:\BAckkup\TEDU\TEDU_MVC\bin\Newtonsoft.Json.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Default.srprofile
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\ApplicationInsights.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\TEDU_MVC.dll.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\TEDU_MVC.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\TEDU_MVC.pdb
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\csc.exe
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\csc.exe.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\csc.rsp
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\csi.exe
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\csi.exe.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\csi.rsp
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.AppContext.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Console.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Diagnostics.Process.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.IO.Compression.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.IO.Pipes.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Security.AccessControl.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Security.Claims.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Threading.Thread.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.ValueTuple.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Xml.XPath.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\vbc.exe
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\vbc.exe.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\vbc.rsp
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\VBCSCompiler.exe
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\EntityFramework.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\EntityFramework.SqlServer.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.AI.Web.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.AI.WindowsServer.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.ApplicationInsights.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Models.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Newtonsoft.Json.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\PagedList.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\PagedList.Mvc.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\SpecRun.SpecFlowPlugin.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\System.Diagnostics.DiagnosticSource.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\System.Web.Helpers.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\System.Web.Mvc.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\System.Web.Razor.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\System.Web.Webpages.Deployment.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\System.Web.Webpages.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\System.Web.Webpages.Razor.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\TechTalk.SpecFlow.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\TechTalk.SpecRun.Common.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\TechTalk.SpecRun.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Models.pdb
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Models.dll.config
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\EntityFramework.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\EntityFramework.SqlServer.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.AI.Web.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.AI.WindowsServer.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.ApplicationInsights.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\Newtonsoft.Json.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\PagedList.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\PagedList.Mvc.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\System.Diagnostics.DiagnosticSource.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\System.Web.Razor.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\System.Web.Webpages.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\System.Web.Webpages.Deployment.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\System.Web.Webpages.Razor.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\System.Web.Helpers.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\System.Web.Mvc.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\obj\Debug\TEDU_MVC.csprojResolveAssemblyReference.cache
+D:\CMU\Computer Science\TEDU\TEDU_MVC\obj\Debug\TEDU_MVC.csproj.CoreCompileInputs.cache
+D:\CMU\Computer Science\TEDU\TEDU_MVC\obj\Debug\TEDU_MVC.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\obj\Debug\TEDU_MVC.pdb
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\nunit.framework.dll
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\nunit.framework.xml
+D:\CMU\Computer Science\TEDU\TEDU_MVC\bin\roslyn\System.Collections.Immutable.dll
